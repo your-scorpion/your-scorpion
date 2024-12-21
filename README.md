@@ -3,7 +3,7 @@
 [Portfolio](https://eng.your-scorpion.ru/)
 
 🧠 **Strong-minded**, creative, curious, and inspired.  
-🏴‍☠️ **Hacking attitude** with a strong disposition towards Reverse-Engineering.  
+🏴‍☠️ **Design Systems** in accordance with best practice.  
 🏎️ **Fast learner**.  
 🚀 **Performance-obsessed**.  
 🔧 **Excellent problem-solver**.  
